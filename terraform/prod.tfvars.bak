@@ -1,4 +1,4 @@
-project = "data-hackathon-ba-05225"
+project = "<PROJECT_ID>"
 region  = "us-central1"
 domain  = "example"
 environment="dev"
